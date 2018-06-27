@@ -1,0 +1,9 @@
+<html>
+<!Implementation of various heading tags-->
+<h1>Web technology</h1><br>
+<h2>Web technology</h2><br>
+<h3>Web technology</h3><br>
+<h4>Web technology</h4><br>
+<h5>Web technology</h5><br>
+<p>Hello</p>
+</html>

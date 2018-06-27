@@ -1,0 +1,7 @@
+<html>
+<!Title tag usage-->
+<title>General</title>
+<p style="font size:25px"><b>Hello!!</b></p><br>
+Html stands for Hyper text Markup Language.
+Html is used to design webpages.
+</html>

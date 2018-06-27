@@ -1,0 +1,7 @@
+<html>
+<!Paragraph tag implementation-->
+<head>
+<h1><b>Web technology</b></h1><br>
+</head>
+<p>paragragh tag</p>
+</html>

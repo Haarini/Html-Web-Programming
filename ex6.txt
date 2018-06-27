@@ -1,0 +1,11 @@
+<html>
+<!Description of various special font editing tags in html-->
+Web Technology<b> Bold</b></br>
+<i>emphasize</i><br>
+<strong>st</strong><br>
+a<sup>2</sup>2<br>
+h<sub>2</sub>o<br>
+<del>delete</del><br>
+<code>html is used for designing web pages</code><br>
+</html>
+

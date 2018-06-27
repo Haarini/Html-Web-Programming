@@ -1,0 +1,6 @@
+<html>
+<!To demonstrate title and allignment attributes-->
+<title>General message</title>
+<h1>Web Technology</h1><br>
+<p align="right">Html is used for designing webpages</p>
+</html>
