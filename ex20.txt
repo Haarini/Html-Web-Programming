@@ -1,0 +1,18 @@
+<html>
+<title>Ex20</title>
+<h1>Marksheet<align="center"></h1>
+<table bgcolor="lightblue" width="500" border="5">
+<tr>
+  <td colspan="2">Roll no.</td>
+  <td colspan="2">M1</td>
+  <td colspan="2">M2</td>
+  <td colspan="2">M3</td>
+</tr>
+<tr>
+  <td colspan="2">201603020</td>
+  <td colspan="2">9</td>
+  <td colspan="2">8.5</td>
+  <td colspan="2">8</td>
+</tr>
+</table>
+</html>

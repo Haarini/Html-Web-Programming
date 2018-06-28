@@ -1,0 +1,6 @@
+<html>
+<!comment tag-->
+<comment>
+Comment tag Web technology includes  the concepts of HTML
+</comment>
+</html>

@@ -1,0 +1,19 @@
+<html>
+<!Table Implementation-->
+<title>Ex19</title>
+<h1>Database<align="center"></h1>
+<table width="500" border="5">
+<tr>
+  <td colspan="2">Name</td>
+  <td colspan="2">Year</td>
+  <td colspan="2">Department</td>
+  <td colspan="2">Roll number</td>
+</tr>
+<tr>
+  <td colspan="2">Haarini.S</td>
+  <td colspan="2">III</td>
+  <td colspan="2">IT</td>
+  <td colspan="2">201603020</td>
+</tr>
+</table>
+</html>

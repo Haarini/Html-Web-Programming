@@ -1,0 +1,21 @@
+<html>
+<!cell spacing and cell padding attributes-->
+<title>Ex 22</title>
+<h1>Marklist</h1>
+<body bgcolor="AliceBlue">
+<table cell spacing="5" cell padding="5">
+<tr>
+  <td colspan="2">Roll no.</td>
+  <td colspan="2">M1</td>
+  <td colspan="2">M2</td>
+  <td colspan="2">M3</td>
+</tr>
+<tr>
+  <td colspan="2">201603020</td>
+  <td colspan="2">9</td>
+  <td colspan="2">8.5</td>
+  <td colspan="2">8</td>
+</tr>
+</table>
+</body>
+</html>

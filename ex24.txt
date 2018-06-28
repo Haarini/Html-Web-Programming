@@ -1,0 +1,6 @@
+<html>
+<!Background image-->
+<body background="Hydrangeas.jpg">
+<h3 fontcolor"Red" align="center">Hydrangeas</h3>
+</body>
+</html>

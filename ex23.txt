@@ -1,0 +1,6 @@
+<html>
+<!Implementation of bgcolor tag-->
+<body bgcolor="LightBlue">
+<h1>WEBTECHNOLOGY LAB</h1>
+</body>
+</html>

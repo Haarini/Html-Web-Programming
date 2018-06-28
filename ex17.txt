@@ -1,0 +1,5 @@
+<html>
+<!Image Display-->
+<h1>Koala bear</h1>
+<img src="Koala.jpg" alt="Koala bear" height= "300" width="300">
+</html>
