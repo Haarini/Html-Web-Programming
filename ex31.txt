@@ -1,0 +1,21 @@
+<html>
+<h1>CSS Fonts</h1>
+<head>
+<style>
+p.serif {
+    font-family: "Monotype Corsiva", Times, serif;
+}
+
+p.sansserif {
+    font-family: Arialblack, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body>
+
+<h2>Web Technology</h2>
+<p class="serif">HTML is used as a markup language</p>
+<p class="sansserif">CSS is used as a styling language.</p>
+
+</body>
+</html>

@@ -1,0 +1,23 @@
+<html>
+<h1 align="center">ARTIFICIAL INTELLIGENCE</h1>
+<head>
+<p align ="center"><i><b>It is the intelligence exhibited by machines</b></i></p>
+<div style="background-color:"lightblue">
+<h3>MACHINE LEARNING</h3>
+<p>Machine learning is one advancement of AI that works upon a reasonalbe number of data sets</p>
+</div>
+</head>
+<body>
+<div style="background-color:pink">
+<h4>TYPES OF MACHINE LEARNING</h4>
+<p>Machine learning is categoroised into different categories</p>
+<ul>
+  <li style=color:blue>Supervised learning</li>
+  <li style=color:blue>Unsupervised learning</li>
+  <li style=color:blue>Reinforcement learning</li>
+</ul>
+<p style=color:"red">For more details refer the below link</p>
+<p><a href="https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/">MACHINE LEARNING</a></p>
+</div>
+</body>
+</html>

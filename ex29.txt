@@ -1,0 +1,13 @@
+<html>
+<head>
+<style>
+a:link{color: yellow;}
+a:visited{color:green;}
+a:hover{color:orange;}
+a:active{color:red;}
+</style>
+</head>
+<body>
+<p><b><a href="default.asp" target="_blank">Please click the link</a></b></p>
+</body>
+</html>

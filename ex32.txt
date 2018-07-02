@@ -1,0 +1,15 @@
+<html>
+<head>
+<h2>CSS Text formatting</h2>
+<style>
+body{background-color: pink}
+p {
+    text-indent: 50px;
+    text-align: justify;
+    }
+</style>
+
+<p>CSS Web Technology</p>
+
+</html>
+

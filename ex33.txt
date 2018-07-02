@@ -1,0 +1,22 @@
+<html>
+<head>
+<h1 align="center">CSS Margin</h1>
+<style>
+p {
+    border: 100px blue;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: yellow;
+}
+</style>
+</head>
+<body>
+
+
+
+<p>CSS margin doesnot have margin color and is completely transparant</p>
+
+</body>
+</html>
