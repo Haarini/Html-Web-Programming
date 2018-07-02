@@ -1,0 +1,9 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+<h1>External CSS</h1>
+<body>
+External css is done by linking an external CSS file
+</body>
+</html>
