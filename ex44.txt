@@ -1,0 +1,9 @@
+<html>
+<1HTML submit-->
+<h4>Check result</h4>
+<form>
+Register number:<input type="text"><br>
+Date of birth:<input type="text"><br>
+<input type="submit" value="Submit">
+</form>
+</html>

@@ -1,0 +1,11 @@
+<html>
+<!HTML Checklist-->
+<h4>Checklist</h4>
+<body>
+Please select your subjects
+Artificial Intelligence:<input type="checkbox"><br>
+Data mining<input type="checkbox"><br>
+Data analytics<input type="checkbox"><br>
+Cryptography<input type="checkbox"><br>
+</body>
+</html>

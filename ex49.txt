@@ -1,0 +1,6 @@
+<html>
+<!HTML upload-->
+<h4>File upload</h4>
+<p>Please upload file</p>
+<input type="file" name="Upload file">
+</html>

@@ -1,0 +1,7 @@
+<html>
+<!HTML Input-->
+<h3>Input type</h3>
+<form>
+Roll number:<input type:="text",value="Roll number">
+</form>
+</html>

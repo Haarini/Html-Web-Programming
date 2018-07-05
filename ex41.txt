@@ -1,0 +1,7 @@
+<html>
+<h3>Text field</h3>
+<form>
+Username:<input type="text"><br>
+Password:<input type="password"><br>
+</form>
+</html>

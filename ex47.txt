@@ -1,0 +1,14 @@
+<html>
+<!HTML select-->
+<body>
+Please select your department
+<select>
+<option>Department</option>
+<option>IT</option>
+<option>EEE</option>
+<option>ECE</option>
+<option>Mech</option>
+<option>CSC</option>
+</select>
+</body>
+</html>

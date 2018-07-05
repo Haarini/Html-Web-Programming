@@ -1,0 +1,13 @@
+<html>
+<!HTML Radio button-->
+<h3 align="center">MCQ</h3>
+<form>
+<body align="center">Please select the correct option<br>
+1.Who is the president of India?<br>
+a.<input type="radio" name="option" value="Ramnath Govind">Ramnath Govind<br>
+b.<input type="radio" name="option" value="Prateepa patil">     Prateepa patil<br>
+c.<input type="radio" name="option" value="Pranab Mukherjee">Pranab Mukherjee<br>
+d.<input type="radio" name="option" value="Abdul Kalam">        Abdul Kalam<br>
+<input type="Submit" value="NEXT">
+</body>
+</html>

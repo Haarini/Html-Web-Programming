@@ -1,0 +1,7 @@
+<html>
+<!html hidden input type-->
+<form>
+Email id:<input type="text"><br>
+Password:<input type="hidden"><br>
+</form>
+</html>

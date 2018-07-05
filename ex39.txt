@@ -1,0 +1,6 @@
+<html>
+<h3>HTML form</h3>
+<form>
+Name:<input type="text"><br>
+</form>
+</html>
